@@ -6,4 +6,7 @@ import org.springframework.stereotype.Controller;
 public class AdminController 
 {
 
+	public String preLogin() {
+		return "";
+	}
 }
