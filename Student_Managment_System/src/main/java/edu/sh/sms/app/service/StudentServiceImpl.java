@@ -1,4 +1,4 @@
-package edu.sh.sms.service;
+package edu.sh.sms.app.service;
 
 public class StudentServiceImpl implements StudentServiceI {
 

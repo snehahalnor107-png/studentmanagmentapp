@@ -1,4 +1,4 @@
-package edu.sh.sms.model;
+package edu.sh.sms.app.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
